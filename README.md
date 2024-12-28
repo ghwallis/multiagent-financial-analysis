@@ -2,6 +2,12 @@
 
 This repository contains a Python script, **financial_analysis.py**, that demonstrates a multi-agent system designed to analyze market data, develop trading strategies, and provide actionable insights for financial trading. The script utilizes machine learning models and real-time data analysis tools to assist in decision-making processes for stock trading.
 
+
+---
+### Why use an Agentice Framework?
+
+One may ask why use an agentic framework in the first place? AI agents excel in financial analysis tasks by offering specialization, where each agent focuses on a specific role like data analysis or risk management, ensuring precision and efficiency. Unlike standalone LLMs, agents can dynamically interact, delegate tasks, and go back and forth with other agents to refine responses and manage hierarchical workflows, streamlining complex multi-step processes. Their modular design allows for seamless integration with external tools and APIs for real-time data collection and analysis, while also enabling scalability and reusability across projects. Additionally, agents provide robust error handling, ensuring failures in one area do not disrupt the entire system. These features make AI agents superior for tasks requiring adaptability, collaboration, and precision.
+
 ---
 
 ## Features
