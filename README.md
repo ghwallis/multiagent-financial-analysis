@@ -91,6 +91,14 @@ You can find a sample result file [here](financial_analysis_result.txt).
 
 ---
 
+## Demonstration Video
+
+Click the image below to watch the demonstration video:
+
+[![Watch the video](path_to_thumbnail_image)](https://github.com/user-attachments/assets/f861220b-6ed2-4be4-aff5-f0ee76b081d8)
+
+
+
 ## Contributing
 Contributions are welcome! Please follow these steps:
 1. Fork the repository.
